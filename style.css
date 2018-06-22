@@ -1,0 +1,18 @@
+#bag{
+    width: 300px;
+    height: 500px;
+    background-image: url(img/bag.png) ;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+#health{
+    width: 200px;
+    border: 2px solid black;
+}
+#health div{
+    height: 20px;
+    background-color: red;
+}
+#bag.burst{
+        background-image: url(img/bag-burst.png) ;
+}
